@@ -3,6 +3,6 @@ My test repository for the Reproducible Research workshop.
 
 
 
-## Author
+## Semester
 
-Frank Nieto (UIUC)
+Winter 2021
